@@ -139,7 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Gorsheninev_Class_Train.cpp" />
     <ClCompile Include="Gorsheninev_Train.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gorsheninev_Class_Train.h" />
+    <ClInclude Include="Gorsheninev_description.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

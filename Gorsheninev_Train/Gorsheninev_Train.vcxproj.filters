@@ -18,5 +18,16 @@
     <ClCompile Include="Gorsheninev_Train.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Gorsheninev_Class_Train.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gorsheninev_Class_Train.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gorsheninev_description.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
